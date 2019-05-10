@@ -1,0 +1,13 @@
+.testA {
+  color: red;
+  -webkit-box-shadow: 4px 4px 4px;
+          box-shadow: 4px 4px 4px; }
+
+.bg {
+  width: 300px;
+  height: 100px;
+  background: url(./img/A.jpg) 0 0 no-repeat; }
+
+.testA {
+  color: blue; }
+
